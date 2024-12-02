@@ -1,6 +1,10 @@
 # LVI-ObjSemantic
 A Real time LiDAR-Visual-Inertial object level semantic SLAM for Forest Environments
 
+# News
+Paper now available in ISPRS Journal of Photogrammetry and Remote Sensing
+DOI : 10.1016/j.isprsjprs.2024.11.013
+
 Our work is currently under reversion, and the dataset and code will be released after the paper is published.
 
 Here is the GIF of our project：
